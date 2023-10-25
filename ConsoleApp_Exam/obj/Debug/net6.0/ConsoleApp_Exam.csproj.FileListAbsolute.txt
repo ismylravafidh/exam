@@ -1,0 +1,14 @@
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\bin\Debug\net6.0\ConsoleApp_Exam.exe
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\bin\Debug\net6.0\ConsoleApp_Exam.deps.json
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\bin\Debug\net6.0\ConsoleApp_Exam.runtimeconfig.json
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\bin\Debug\net6.0\ConsoleApp_Exam.dll
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\bin\Debug\net6.0\ConsoleApp_Exam.pdb
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\obj\Debug\net6.0\ConsoleApp_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\obj\Debug\net6.0\ConsoleApp_Exam.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\obj\Debug\net6.0\ConsoleApp_Exam.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\obj\Debug\net6.0\ConsoleApp_Exam.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\obj\Debug\net6.0\ConsoleApp_Exam.dll
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\obj\Debug\net6.0\refint\ConsoleApp_Exam.dll
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\obj\Debug\net6.0\ConsoleApp_Exam.pdb
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\obj\Debug\net6.0\ConsoleApp_Exam.genruntimeconfig.cache
+C:\Users\II novbe\source\repos\ConsoleApp_Exam\obj\Debug\net6.0\ref\ConsoleApp_Exam.dll
